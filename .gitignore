@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules
+jspm_packages
+
+# Serverless
+.webpack
+.serverless
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# env
+env.yml
+.env
